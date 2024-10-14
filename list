@@ -1,0 +1,971 @@
+[
+    {
+        "id": 1,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 19.99,
+        "White": true,
+        "Yellow": false,
+        "Tumor": false,
+        "Watt": 10,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/led(3).png"
+    },
+    {
+        "id": 2,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 35,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 9,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/led(3).png"
+    },
+    {
+        "id": 3,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 43,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/led(3).png"
+    },
+    {
+        "id": 4,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 58,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 15,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/led(3).png"
+    },
+    {
+        "id": 5,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 105,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 32,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/ledbig.jfif"
+    },
+    {
+        "id": 6,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 135,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 42,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/ledbig.jfif"
+    },
+    {
+        "id": 7,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 160,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 52,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/ledbig.jfif"
+    },
+    {
+        "id": 8,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 170,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 18,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 9,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 230,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 24,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 10,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 320,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 36,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 11,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 350,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 36,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 12,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 500,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 48,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 13,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 590,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 48,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 14,
+        "titleEn": "SPOT Light Gu10",
+        "titleAr": "سبوت لايت Gu10",
+        "descriptionAr": "",
+        "price": 40,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/spotg.jfif"
+    },
+    {
+        "id": 15,
+        "titleEn": "SPOT Light Gu10",
+        "titleAr": "سبوت لايت Gu10",
+        "descriptionAr": "",
+        "price": 54,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/spotg.jfif"
+    },
+    {
+        "id": 16,
+        "titleEn": "Glass Spotlight",
+        "titleAr": "كشاف زجاجي",
+        "descriptionAr": "",
+        "price": 75,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/spot.jfif"
+    },
+    {
+        "id": 17,
+        "titleEn": "Glass Spotlight",
+        "titleAr": "كشاف زجاجي",
+        "descriptionAr": "",
+        "price": 55,
+        "White": true,
+        "Yellow": false,
+        "Tumor": false,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/spot.jfif"
+    },
+    {
+        "id": 18,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 60,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 9,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 19,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 85,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 9,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 20,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 155,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 18,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 21,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 180,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 18,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 22,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 195,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 24,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 23,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 225,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 24,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 24,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 275,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 36,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 25,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 310,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 36,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 26,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 285,
+        "White": true,
+        "Yellow": false,
+        "Tumor": false,
+        "Watt": 36,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 27,
+        "titleEn": "Glass Spotlight",
+        "titleAr": "كشاف زجاجي",
+        "descriptionAr": "",
+        "price": 75,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/spot.jfif"
+    },
+    {
+        "id": 28,
+        "titleEn": "Glass Spotlight",
+        "titleAr": "كشاف زجاجي",
+        "descriptionAr": "",
+        "price": 55,
+        "White": true,
+        "Yellow": false,
+        "Tumor": false,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "/assets/images/product/spot.jfif"
+    },
+    {
+        "id": 29,
+        "titleEn": "LED TUBE",
+        "titleAr": "أنبوب LED",
+        "descriptionAr": "",
+        "price": 0,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 0,
+        "category": "tube",
+        "Guarantee": {
+            "Year": true,
+            "twoYears": false
+        },
+        "img": "https://example.com/images/led-lamp-a.jpg"
+    },
+    {
+        "id": 30,
+        "titleEn": "LED TUBE",
+        "titleAr": "أنبوب LED",
+        "descriptionAr": "",
+        "price": 0,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 0,
+        "category": "tube",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "https://example.com/images/led-lamp-a.jpg"
+    },
+    {
+        "id": 31,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 35,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 9,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/led(3).png"
+    },
+    {
+        "id": 32,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 43,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/led(3).png"
+    },
+    {
+        "id": 33,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 58,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 15,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/led(3).png"
+    },
+    {
+        "id": 34,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 105,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 32,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/ledbig.jfif"
+    },
+    {
+        "id": 35,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 135,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 42,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/ledbig.jfif"
+    },
+    {
+        "id": 36,
+        "titleEn": "LED Lamp",
+        "titleAr": "مصباح LED",
+        "descriptionAr": "",
+        "price": 160,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 52,
+        "category": "lamp",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/ledbig.jfif"
+    },
+    {
+        "id": 37,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 170,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 18,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 38,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 230,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 24,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 39,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 320,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 36,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 40,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 350,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 36,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 41,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 500,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 48,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 42,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 590,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 48,
+        "category": "outDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/out.jfif"
+    },
+    {
+        "id": 43,
+        "titleEn": "SPOT Light Gu10",
+        "titleAr": "سبوت لايت Gu10",
+        "descriptionAr": "",
+        "price": 40,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/spotg.jfif"
+    },
+    {
+        "id": 44,
+        "titleEn": "SPOT Light Gu10",
+        "titleAr": "سبوت لايت Gu10",
+        "descriptionAr": "",
+        "price": 54,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/spotg.jfif"
+    },
+    {
+        "id": 45,
+        "titleEn": "Glass Spotlight",
+        "titleAr": "كشاف زجاجي",
+        "descriptionAr": "",
+        "price": 75,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/spot.jfif"
+    },
+    {
+        "id": 46,
+        "titleEn": "Glass Spotlight",
+        "titleAr": "كشاف زجاجي",
+        "descriptionAr": "",
+        "price": 55,
+        "White": true,
+        "Yellow": false,
+        "Tumor": false,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/spot.jfif"
+    },
+    {
+        "id": 47,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 60,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 9,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 48,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 85,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 9,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 49,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 155,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 18,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 50,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 180,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 18,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 51,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 195,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 24,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 52,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 225,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 24,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 53,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 275,
+        "White": true,
+        "Yellow": false,
+        "Tumor": true,
+        "Watt": 36,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 54,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 310,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 36,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 55,
+        "titleEn": "LED Panel",
+        "titleAr": "لوحة LED",
+        "descriptionAr": "",
+        "price": 285,
+        "White": true,
+        "Yellow": false,
+        "Tumor": false,
+        "Watt": 36,
+        "category": "inDoor",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/in.jfif"
+    },
+    {
+        "id": 56,
+        "titleEn": "Glass Spotlight",
+        "titleAr": "كشاف زجاجي",
+        "descriptionAr": "",
+        "price": 75,
+        "White": true,
+        "Yellow": true,
+        "Tumor": true,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/spot.jfif"
+    },
+    {
+        "id": 57,
+        "titleEn": "Glass Spotlight",
+        "titleAr": "كشاف زجاجي",
+        "descriptionAr": "",
+        "price": 55,
+        "White": true,
+        "Yellow": false,
+        "Tumor": false,
+        "Watt": 12,
+        "category": "spotLight",
+        "Guarantee": {
+            "Year": false,
+            "twoYears": true
+        },
+        "img": "/assets/images/product/spot.jfif"
+    }
+]
